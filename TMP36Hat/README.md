@@ -1,4 +1,3 @@
-Lee valores de temperatura ambiente con el sensor TMP36.
+Lee valores de temperatura ambiente con el sensor TMP36 montado en un proto HAT del M5Stick como se puede ver en la siguiente imagen.
 
 ![alt text](TMP36Hat.png)
-https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/TMP36Hat/TMP36Hat.png
