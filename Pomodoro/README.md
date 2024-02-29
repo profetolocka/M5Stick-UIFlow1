@@ -1,5 +1,20 @@
-Timer para aplicar la técnica de estudio "Pomodoro"
 
-Los tiempos de estudio y descanso estan fijos a 25 y 5 minutos respectivamente.
+# Pomodoro
 
-Se pueden pausar los temporizadores con el botón A.
+Sencillo timer para aplicar la técnica de estudio Pomodoro
+
+## Funciones
+
+- Tiempo de estudio fijo a 25 minutos
+- Tiempo de descanso fijo a 5 minutos
+- El botón A permite pausar el tiempo de estudio o descanso
+
+
+## Autor
+
+- [@profetolocka](https://github.com/profetolocka)
+
+
+## Imágenes
+
+![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/Pomodoro/Funcionamiento.png)
