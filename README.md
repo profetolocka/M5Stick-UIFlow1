@@ -12,3 +12,10 @@ El M5Stick es un integrante de la familia de productos M5Stack. Es un dispositiv
 
 ![alt text](images/m5stickC2.webp)
 
+## Contenido
+
+El repositorio está organizado en carpetas, cada una conteniendo un proyecto completo. Cada carpeta contiene un archivo README con explicaciones y otra información adicional.
+
+## Licencia
+
+Todos los proyectos son de código abierto (open source y open hardware) y están publicados bajo una licencia MIT.
