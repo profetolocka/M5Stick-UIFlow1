@@ -24,7 +24,6 @@ Todos los proyectos son de código abierto (open source y open hardware) y está
 
 Puedes contactarme y ver el resto de mi trabajo en:
 
-- Github: @profetolocka
-https://github.com/profetolocka/M5Stick-UIFlow1/edit/main/README.md
-- Blog: www.profetolocka.com.ar
-- Redes: [linktr.ee/profetolocka](https://linktr.ee/profetolocka)https://linktr.ee/profetolocka
+- Github: [@profetolocka](https://github.com/profetolocka)
+- Blog: [Profe Tolocka](www.profetolocka.com.ar)
+- Redes: [linktr.ee](https://linktr.ee/profetolocka)https://linktr.ee/profetolocka
