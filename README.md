@@ -26,4 +26,4 @@ Puedes contactarme y ver el resto de mi trabajo en:
 
 - Github: [@profetolocka](https://github.com/profetolocka)
 - Blog: [Profe Tolocka](www.profetolocka.com.ar)
-- Redes: [linktr.ee](https://linktr.ee/profetolocka)https://linktr.ee/profetolocka
+- Redes: [linktr.ee](https://linktr.ee/profetolocka)
