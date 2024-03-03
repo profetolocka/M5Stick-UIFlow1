@@ -20,7 +20,7 @@ La carpeta **Pruebas** contiene programas simples para comprobar ideas o el func
 
 ## Licencia
 
-Todos los proyectos son de código abierto (open source y open hardware) y están publicados bajo una licencia MIT.
+Todos los proyectos son de **código abierto** (open source y open hardware) y están publicados bajo una licencia **MIT**.
 
 ## Contacto
 
