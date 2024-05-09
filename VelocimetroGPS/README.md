@@ -9,6 +9,7 @@ Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLo
 - Alerta de exceso de velocidad
 - Muestra la velocidad máxima alcanzada
 - Muestra la tensión de la batería y la hora actual.
+- La zona horaria (Time Zone) y la velocidad límite están fijas en el código y deben ser modificadas según la localización.
 
 
 ## Autor
