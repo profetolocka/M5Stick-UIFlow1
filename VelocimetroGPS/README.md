@@ -1,6 +1,7 @@
 # VelocimetroGPS
 
-Velocimetro para vehículo con indicador de exceso de velocidad
+Velocimetro para vehículo con indicador de exceso de velocidad.
+Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLow1.
 
 ## Funciones
 
