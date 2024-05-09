@@ -1,13 +1,14 @@
+# VelocimetroGPS
 
-# Pomodoro
-
-Sencillo timer para aplicar la técnica de estudio Pomodoro
+Velocimetro para vehículo con indicador de exceso de velocidad.
+Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLow1.
 
 ## Funciones
 
-- Tiempo de estudio fijo a 25 minutos
-- Tiempo de descanso fijo a 5 minutos
-- El botón A permite pausar el tiempo de estudio o descanso
+- Indica la velocidad instantánea en Km/h
+- Alerta de exceso de velocidad
+- Muestra la velocidad máxima alcanzada
+- Muestra la tensión de la batería y la hora actual.
 
 
 ## Autor
@@ -17,4 +18,4 @@ Sencillo timer para aplicar la técnica de estudio Pomodoro
 
 ## Imágenes
 
-![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/Pomodoro/Funcionamiento.png)
+![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/VelocimetroGPS/velocimetro1.jpg)
