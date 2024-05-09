@@ -18,4 +18,4 @@ Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLo
 
 ## Imágenes
 
-![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/Pomodoro/Funcionamiento.png)
+![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/VelocimetroGPS/velocimetro1.jpg)
