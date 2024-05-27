@@ -24,7 +24,6 @@ Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLo
 ![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/VelocimetroGPS/velocimetro1.jpg)
 
 ---
-# English version
 
 # GPS Speedometer
 
