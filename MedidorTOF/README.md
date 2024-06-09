@@ -22,17 +22,12 @@ Medidor de distancias con el TOF Hat
 
 # TOF Distance meter
 
-Speedometer for vehicles with speed limit indicator.
-It showcases the capabilities of the Mini GPS/BDS module and the GPS blocks of UIFLow1.
+Distance meter with the TOF Hat
 
 ## Functions
 
-- Displays instant speed in Km/h
-- Speeding alert
-- Shows the maximum speed reached
-- Displays battery voltage and current time.
-- The time zone (Time Zone) and speed limit are fixed in the code and must be modified according to the location.
-
+- Measures in three units: mm, cm, and inches
+- One memory to store a value
 
 ## Author
 
@@ -41,4 +36,4 @@ It showcases the capabilities of the Mini GPS/BDS module and the GPS blocks of U
 
 ## Images
 
-![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/VelocimetroGPS/velocimetro1.jpg)
+![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/MedidorTOF/testing.png)
