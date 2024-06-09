@@ -1,4 +1,4 @@
-[Go to english version](#GPS-Speedometer)
+[Go to english version](#TOF-Distance-meter)
 
 # Medidor de distancias TOF
 
@@ -20,7 +20,7 @@ Medidor de distancias con el TOF Hat
 
 ---
 
-# GPS Speedometer
+# TOF Distance meter
 
 Speedometer for vehicles with speed limit indicator.
 It showcases the capabilities of the Mini GPS/BDS module and the GPS blocks of UIFLow1.
