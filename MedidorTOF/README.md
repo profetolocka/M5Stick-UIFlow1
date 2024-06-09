@@ -1,18 +1,13 @@
 [Go to english version](#GPS-Speedometer)
 
-# VelocimetroGPS
+# Medidor de distancias TOF
 
-Velocimetro para vehículo con indicador de exceso de velocidad.
-Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLow1.
+Medidor de distancias con el TOF Hat
 
 ## Funciones
 
-- Indica la velocidad instantánea en Km/h
-- Alerta de exceso de velocidad
-- Muestra la velocidad máxima alcanzada
-- Muestra la tensión de la batería y la hora actual.
-- La zona horaria (Time Zone) y la velocidad límite están fijas en el código y deben ser modificadas según la localización.
-
+- Mide en tres unidades: mm, cm y pulgadas
+- Memoria para almacenar un valor
 
 ## Autor
 
@@ -21,7 +16,7 @@ Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLo
 
 ## Imágenes
 
-![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/VelocimetroGPS/velocimetro1.jpg)
+![En funcionamiento](https://github.com/profetolocka/M5Stick-UIFlow1/blob/main/MedidorTOF/testing.png)
 
 ---
 
