@@ -15,8 +15,9 @@ Sencillo timer para aplicar la técnica **Pomodoro** de gestión del tiempo
 - [@profetolocka](https://github.com/profetolocka)
 
 ## Enlaces
-[Artículo en el blog](https://www.profetolocka.com.ar/2024/07/08/construye-tu-timer-pomodoro-con-m5stick-y-uiflow/)
-[Proyecto en Hackster.io](https://www.hackster.io/etolocka/build-your-pomodoro-timer-with-m5stick-and-uiflow-c3b77b)
+
+- [Artículo en el blog](https://www.profetolocka.com.ar/2024/07/08/construye-tu-timer-pomodoro-con-m5stick-y-uiflow/)
+- [Proyecto en Hackster.io](https://www.hackster.io/etolocka/build-your-pomodoro-timer-with-m5stick-and-uiflow-c3b77b)
 
 ## Imágenes
 
@@ -39,8 +40,9 @@ Simple timer for applying the **Pomodoro** time management technique
 - [@profetolocka](https://github.com/profetolocka)
 
 ## Enlaces
-[Blog](https://www.profetolocka.com.ar/2024/07/08/construye-tu-timer-pomodoro-con-m5stick-y-uiflow/)
-[Project in Hackster.io](https://www.hackster.io/etolocka/build-your-pomodoro-timer-with-m5stick-and-uiflow-c3b77b)
+
+- [Blog](https://www.profetolocka.com.ar/2024/07/08/construye-tu-timer-pomodoro-con-m5stick-y-uiflow/)
+- [Project in Hackster.io](https://www.hackster.io/etolocka/build-your-pomodoro-timer-with-m5stick-and-uiflow-c3b77b)
 
 ## Images
 
