@@ -13,6 +13,10 @@ Medidor de distancias con el TOF Hat
 
 - [@profetolocka](https://github.com/profetolocka)
 
+## Enlaces
+
+- [Artículo en el blog](https://www.profetolocka.com.ar/2024/06/10/medidor-laser-de-distancias-con-m5stick-y-uiflow/)
+- [Proyecto en Hackster.io](https://www.hackster.io/etolocka/laser-distance-meter-with-m5stick-and-uiflow-840939)
 
 ## Imágenes
 
@@ -33,6 +37,10 @@ Distance meter with the TOF Hat
 
 - [@profetolocka](https://github.com/profetolocka)
 
+## Enlaces
+
+- [Blog](https://www.profetolocka.com.ar/2024/06/10/medidor-laser-de-distancias-con-m5stick-y-uiflow/)
+- [Project in Hackster.io](https://www.hackster.io/etolocka/laser-distance-meter-with-m5stick-and-uiflow-840939)
 
 ## Images
 
