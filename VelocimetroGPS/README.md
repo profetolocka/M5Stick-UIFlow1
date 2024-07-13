@@ -13,11 +13,14 @@ Muestra las posibilidades del módulo Mini GPS/BDS y los bloques de GPS de UIFLo
 - Muestra la tensión de la batería y la hora actual.
 - La zona horaria (Time Zone) y la velocidad límite están fijas en el código y deben ser modificadas según la localización.
 
-
 ## Autor
 
 - [@profetolocka](https://github.com/profetolocka)
 
+## Enlaces
+
+- [Artículo en el blog](https://www.profetolocka.com.ar/2024/05/27/velocimetro-gps-con-m5stick-y-uiflow/)
+- [Proyecto en Hackster.io](https://www.hackster.io/etolocka/gps-speedometer-with-m5stick-and-uiflow-578a9c)
 
 ## Imágenes
 
@@ -43,6 +46,10 @@ It showcases the capabilities of the Mini GPS/BDS module and the GPS blocks of U
 
 - [@profetolocka](https://github.com/profetolocka)
 
+## Links
+
+- [Blog](https://www.profetolocka.com.ar/2024/05/27/velocimetro-gps-con-m5stick-y-uiflow/)
+- [Project in Hackster.io](https://www.hackster.io/etolocka/gps-speedometer-with-m5stick-and-uiflow-578a9c)
 
 ## Images
 
