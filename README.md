@@ -1,4 +1,4 @@
-[Go to english version](#Projects-for-M5Stick-Made-in-UIFlow-Ver.1)
+[Go to english version](#Projects-for-M5Stick-Made-in-UIFlow-Ver1)
 
 # Proyectos para M5Stick hechos en UIFlow Ver.1
 
@@ -32,7 +32,7 @@ Puedes contactarme y ver el resto de mi trabajo en:
 - Blog: [Profe Tolocka](https://www.profetolocka.com.ar)
 - Redes: [linktr.ee](https://linktr.ee/profetolocka)
 
-# Projects for M5Stick Made in UIFlow Ver.1
+# Projects for M5Stick Made in UIFlow Ver1
 
 ## Introduction
 
